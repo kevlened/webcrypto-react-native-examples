@@ -1,0 +1,9 @@
+{
+  "name": "webcrypto-react-native-examples",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "expo-cli": "^3.0.10",
+    "react-native-cli": "^2.0.1"
+  }
+}

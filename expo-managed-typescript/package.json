@@ -10,7 +10,7 @@
   "dependencies": {
     "expo": "^34.0.1",
     "hex-lite": "^1.5.0",
-    "isomorphic-webcrypto": "^2.2.0",
+    "isomorphic-webcrypto": "^2.3.2",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",

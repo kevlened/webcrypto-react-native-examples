@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "hex-lite": "^1.5.0",
-    "isomorphic-webcrypto": "^2.1.2",
+    "isomorphic-webcrypto": "^2.3.2",
     "react": "16.8.6",
     "react-native": "0.60.5"
   },
